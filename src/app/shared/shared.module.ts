@@ -11,7 +11,8 @@ import { MainBarComponent } from './components/main-bar/main-bar.component';
     MainBarComponent
   ],
   exports: [
-    BarShoppingCartComponent
+    BarShoppingCartComponent,
+    MainBarComponent
   ],
   imports: [
     CommonModule,
